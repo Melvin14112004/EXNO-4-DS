@@ -185,6 +185,5 @@ print(f"P-Value: {p}")
 ![image](https://github.com/Sriram8452/EXNO-4-DS/assets/118708032/94ea35b7-b7e8-4dd3-9fb0-9437523bba59)
 
 
-# RESULT:
-      
-      Thus the code to read the given data and perform Feature Scaling and Feature Selection process and save the data to a file is implemented successfully.
+## RESULT:
+Thus the code to read the given data and perform Feature Scaling and Feature Selection process and save the data to a file is implemented successfully.
